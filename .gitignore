@@ -6,8 +6,8 @@
 /out-tsc
 
 # dependencies
-/node_modules
-!/node_modules/@ahk-freiburg/**
+/node_modules/*
+!/node_modules/@ahk-freiburg
 
 # IDEs and editors
 /.idea
