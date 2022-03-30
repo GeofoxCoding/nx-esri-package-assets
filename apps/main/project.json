@@ -23,7 +23,10 @@
             "output": "./assets/esri/"
           }
         ],
-        "styles": ["apps/main/src/styles.scss"],
+        "styles": [
+          "apps/main/src/styles.scss",
+          "apps/main/src/assets/esri/esri/themes/dark/main.scss"
+        ],
         "scripts": []
       },
       "configurations": {
